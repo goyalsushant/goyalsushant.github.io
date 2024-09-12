@@ -16,7 +16,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock10} className="zoom" alt="thumbnail" width="100%" />
+            {/* <img src={mock10} className="zoom" alt="thumbnail" width="100%" /> */}
           </a>
           <a
             href="https://www.curiousworld.com/"
@@ -33,7 +33,7 @@ function Project() {
         </div>
         <div className="project">
           <a href="https://www.hdfcfund.com/" target="_blank" rel="noreferrer">
-            <img src={mock09} className="zoom" alt="thumbnail" width="100%" />
+            {/* <img src={mock09} className="zoom" alt="thumbnail" width="100%" /> */}
           </a>
           <a href="https://www.hdfcfund.com/" target="_blank" rel="noreferrer">
             <h2>HDFC Mutual Fund</h2>
@@ -46,7 +46,7 @@ function Project() {
         </div>
         <div className="project">
           <a href="https://www.etf.com/" target="_blank" rel="noreferrer">
-            <img src={mock08} className="zoom" alt="thumbnail" width="100%" />
+            {/* <img src={mock08} className="zoom" alt="thumbnail" width="100%" /> */}
           </a>
           <a href="https://www.etf.com/" target="_blank" rel="noreferrer">
             <h2>ETF.com - Portfolio Management</h2>
@@ -62,7 +62,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock07} className="zoom" alt="thumbnail" width="100%" />
+            {/* <img src={mock07} className="zoom" alt="thumbnail" width="100%" /> */}
           </a>
           <a
             href="https://www.linius.com/whizzard-portal"

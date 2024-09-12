@@ -1,16 +1,13 @@
 import { useState, useEffect } from "react";
-import {
-  Main,
-  Timeline,
-  Expertise,
-  Project,
-  // Contact,
-  Navigation,
-  Footer,
-  PersonalProject
-} from "./components";
 import FadeIn from "./components/FadeIn";
 import "./index.scss";
+import Navigation from "./components/Navigation";
+import Main from "./components/Main";
+import Expertise from "./components/Expertise";
+import Timeline from "./components/Timeline";
+import Project from "./components/Project";
+import PersonalProject from "./components/PersonalProject";
+import Footer from "./components/Footer";
 
 function App() {
   const [mode, setMode] = useState<string>("dark");
