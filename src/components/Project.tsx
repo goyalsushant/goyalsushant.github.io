@@ -1,8 +1,6 @@
 // import React from "react";
-// import mock07 from "../assets/images/mock07.png";
-// import mock08 from "../assets/images/mock08.png";
-// import mock09 from "../assets/images/mock09.png";
-// import mock10 from "../assets/images/mock10.png";
+import hdfcfund_ss from "../assets/images/hdfcfund_ss.svg";
+import curiousworld_ss from "../assets/images/curiousworld_ss.svg";
 import "../assets/styles/Project.scss";
 
 function Project() {
@@ -16,7 +14,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            {/* <img src={mock10} className="zoom" alt="thumbnail" width="100%" /> */}
+            <img src={curiousworld_ss} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a
             href="https://www.curiousworld.com/"
@@ -33,7 +31,7 @@ function Project() {
         </div>
         <div className="project">
           <a href="https://www.hdfcfund.com/" target="_blank" rel="noreferrer">
-            {/* <img src={mock09} className="zoom" alt="thumbnail" width="100%" /> */}
+            <img src={hdfcfund_ss} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a href="https://www.hdfcfund.com/" target="_blank" rel="noreferrer">
             <h2>HDFC Mutual Fund</h2>
