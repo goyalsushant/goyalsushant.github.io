@@ -1,6 +1,8 @@
 // import React from "react";
 import hdfcfund_ss from "../assets/images/hdfcfund_ss.svg";
 import curiousworld_ss from "../assets/images/curiousworld_ss.svg";
+import etf_ss from "../assets/images/etf_ss.svg";
+import linius_ss from "../assets/images/linius_ss.svg";
 import "../assets/styles/Project.scss";
 
 function Project() {
@@ -44,7 +46,7 @@ function Project() {
         </div>
         <div className="project">
           <a href="https://www.etf.com/" target="_blank" rel="noreferrer">
-            {/* <img src={mock08} className="zoom" alt="thumbnail" width="100%" /> */}
+            <img src={etf_ss} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a href="https://www.etf.com/" target="_blank" rel="noreferrer">
             <h2>ETF.com - Portfolio Management</h2>
@@ -60,7 +62,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            {/* <img src={mock07} className="zoom" alt="thumbnail" width="100%" /> */}
+            <img src={linius_ss} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a
             href="https://www.linius.com/whizzard-portal"
