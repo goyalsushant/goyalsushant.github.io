@@ -24,6 +24,20 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
+              Associate Staff Engineer
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Gurugram, India</h4>
+            <p>Full-stack Web Development, Team Leading, Project Management</p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="2024 - 2024"
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">
               Senior Software Engineer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Noida, India</h4>

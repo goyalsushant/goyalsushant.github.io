@@ -23,6 +23,7 @@ const labelsFirst = [
   "MongoDB",
   "Postman",
   "DynamoDB",
+  "MySQL"
 ];
 
 const labelsSecond = [
@@ -57,12 +58,7 @@ function Expertise() {
             <FontAwesomeIcon icon={faReact} size="3x" />
             <h3>Full Stack Web Development</h3>
             <p>
-              I have built a diverse array of web applications from scratch
-              using modern technologies such as React and Node.js. I possess a
-              strong proficiency in the software development life cycle (SDLC)
-              and excel in both frontend and backend development. Additionally,
-              I have experience working with both SQL and NoSQL databases, as
-              well as AWS Lambda and Step Functions.
+             I build full-stack web applications using React, Node.js, and TypeScript. I work across the entire SDLC and handle both frontend and backend development. I also have experience with SQL/NoSQL databases and serverless workflows using AWS Lambda and Step Functions.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>
@@ -76,10 +72,7 @@ function Expertise() {
             <FontAwesomeIcon icon={faDocker} size="3x" />
             <h3>DevOps & Automation</h3>
             <p>
-              Once the application is built, I assist clients and teams in
-              setting up DevOps practices, including automated testing, CI/CD
-              pipelines, and deployment automation, to ensure a smooth and
-              successful Go-Live.
+              I streamline development workflows using DevOps best practices, including automated testing, CI/CD pipelines, and deployment automation. I also work with containerization, cloud services, and version control to ensure smooth and reliable releases.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>

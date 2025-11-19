@@ -31,7 +31,9 @@ function Main() {
             </a>
           </div>
           <h1>Sushant Goyal</h1>
-          <p>Full Stack Engineer | Backend Developer</p>
+          <p>Full-Stack Developer | Problem Solver | Product-Driven Mindset</p>
+          <br />
+          <p className="description">I create digital experiences that are fast, reliable, and built to scale<br /> from UI to backend and everything in between.</p>
 
           <div className="mobile_social_icons">
             <a

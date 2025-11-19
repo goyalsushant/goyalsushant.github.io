@@ -23,15 +23,14 @@ function Footer() {
         </a>
       </div>
       <p>
-        A portfolio designed & built by{" "}
+        Built with passion, caffeine, and clean code by{" "}
         <a
           href="https://github.com/goyalsushant"
           target="_blank"
           rel="noreferrer"
         >
           Sushant Goyal
-        </a>{" "}
-        with 💜
+        </a>{" "}💜
       </p>
     </footer>
   );
