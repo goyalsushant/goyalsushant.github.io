@@ -25,7 +25,7 @@ function PersonalProject() {
           >
             <h2>E-Commerce Platform</h2>
           </a>
-          <p>
+          <p style={{textAlign: 'justify'}}>
             Developed a full-stack e-commerce application for medicines and
             pharmaceutical products using React, Node.js, and MongoDB,
             implementing continuous deployment pipelines to ensure seamless
@@ -47,7 +47,7 @@ function PersonalProject() {
           >
             <h2>Covid Information Platform</h2>
           </a>
-          <p>
+          <p style={{textAlign: 'justify'}}>
             Designed, developed, and launched a COVID-19 information platform
             with a React-based frontend, Python APIs for backend processing, and
             Airtable as the data source.
@@ -101,7 +101,7 @@ function PersonalProject() {
           >
             <h2>Asset Management System</h2>
           </a>
-          <p>
+          <p style={{textAlign: 'justify'}}>
             Developed a comprehensive asset management platform from the ground
             up, designed to store and track organizational assets, utilizing
             HTML, CSS, JavaScript, PHP, and MySQL.

@@ -25,8 +25,8 @@ function Project() {
           >
             <h2>Curious World - E-Learning Platform</h2>
           </a>
-          <p>
-            I have developed RESTful APIs using PHP and Node.js and built a web
+          <p style={{textAlign: 'justify'}}>
+            Created RESTful APIs using PHP and Node.js and built a web
             portal using React. Additionally, I optimized the API performance,
             successfully reducing response times by 50%.
           </p>
@@ -38,10 +38,8 @@ function Project() {
           <a href="https://www.hdfcfund.com/" target="_blank" rel="noreferrer">
             <h2>HDFC Mutual Fund</h2>
           </a>
-          <p>
-            Designed, developed, and launched a 3D multiplayer racing game with
-            C# and Unity. This is available on Itch.io for gamers worldwide to
-            enjoy.
+          <p style={{textAlign: 'justify'}}>
+           Developed Node.js APIs and a ReactJS website with real-time integrations, optimizing architecture to boost performance by 20%.
           </p>
         </div>
         <div className="project">
@@ -51,9 +49,8 @@ function Project() {
           <a href="https://www.etf.com/" target="_blank" rel="noreferrer">
             <h2>ETF.com - Portfolio Management</h2>
           </a>
-          <p>
-            Developed and released a 2D shooting game with C# and Unity. This
-            project is hosted on the Itch.io public marketplace.
+          <p style={{textAlign: 'justify'}}>
+            Developed a dashboard for tracking stock and mutual fund portfolios using React, Node.js, and AWS, leveraging Docker for seamless setup and environment portability.
           </p>
         </div>
         <div className="project">
@@ -71,10 +68,8 @@ function Project() {
           >
             <h2>Linius - OTT Platform</h2>
           </a>
-          <p>
-            This is an online educational platform that provides high-quality,
-            data science-focused learning resources in the Japanese language. I
-            created the entire platform from scratch using Ruby on Rails.
+          <p style={{textAlign: 'justify'}}>
+            Created workflows using AWS Lambda and Step Functions to ingest videos and generate clips of specified durations from metadata files for full game coverage (cricket, football, hockey).
           </p>
         </div>
       </div>
