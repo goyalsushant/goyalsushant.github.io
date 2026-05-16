@@ -69,7 +69,7 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">
               New Delhi, India
             </h4>
-            <p>Full-stack Development Development, User Experience</p>
+            <p>Full-stack Development, User Experience</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
